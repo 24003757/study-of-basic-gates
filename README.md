@@ -68,9 +68,10 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 
-![Screenshot 2024-12-03 030402](https://github.com/user-attachments/assets/49357947-1a4a-4355-b106-738fb304870c)
+![de1 (2)](https://github.com/user-attachments/assets/894205b9-c09e-49a9-8a04-d4d1a9a90674)
 
- Developed by: RegisterNumber: 
+
+ Developed by: RegisterNumber: 24003757
  
 **Logic symbol & Truthtable**
 
@@ -81,14 +82,16 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **RTL realization Output:** 
 
-.![Screenshot 2024-12-03 031235](https://github.com/user-attachments/assets/2dbfb963-e611-4132-a444-e9248877cb69)
+![de1](https://github.com/user-attachments/assets/96dd3f93-ecd4-42d3-ab31-ef01b078b7af)
+
 
 
 
 
 **RTL**
 
-![Screenshot 2024-12-03 030347](https://github.com/user-attachments/assets/7ebe7880-423d-4670-83c6-ada40b2f7a45)
+![de1 (3)](https://github.com/user-attachments/assets/c5c3e002-f6f7-4fea-a751-80dab8d0bb7b)
+
 
 
 
